@@ -1,1 +1,7 @@
+# General Files & Folders
+tmp*
+node_modules
+test.*
+*-test*
+.DS_Store
 
