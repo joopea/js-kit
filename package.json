@@ -18,5 +18,13 @@
   ],
   "author": "JAssist by JoopeA Foundation",
   "license": "MIT",
-  "description": "Basic and needed utilities for any JavaScript app."
+  "description": "Basic and needed utilities for any JavaScript app.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joopea/js-kit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joopea/js-kit/issues"
+  },
+  "homepage": "https://github.com/joopea/js-kit#readme"
 }
